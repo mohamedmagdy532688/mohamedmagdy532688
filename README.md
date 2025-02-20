@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohamedmagdy532688
+- 👋 Hi, I’m mohamed magdy omr 
 - 👀 I’m interested in back end 
 - 🌱 I’m currently learning php and Laravel and database 
 - 
